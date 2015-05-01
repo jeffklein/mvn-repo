@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.jeffklein.turfwars</groupId>
+  <artifactId>tw-codes-data-access</artifactId>
+  <versioning>
+    <versions>
+      <version>1.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20150501164337</lastUpdated>
+  </versioning>
+</metadata>
