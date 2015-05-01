@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.jeffklein.turfwars</groupId>
+  <artifactId>tw-codes-api-client</artifactId>
+  <version>1.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20150501.001720</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20150501001720</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.1-20150501.001720-1</value>
+        <updated>20150501001720</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.1-20150501.001720-1</value>
+        <updated>20150501001720</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
